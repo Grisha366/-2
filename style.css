@@ -1,13 +1,21 @@
 table{
-    border: 1px solid white
+    border: 1px solid white;
+}
+
+p{
+    font-size: 18px;
+}
+
+body{
+    font-family: sans-serif;
 }
 
 td{
-    border: 1px solid white
+    border: 1px solid white;
 }
 
 footer{
-         background-color: #6495ED
+         background-color: #6495ED;
 
 }
 
@@ -18,4 +26,20 @@ main{
 header{
      text-align: center;
      background-color: dodgerblue;
+     color: white;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+main p{
+       color:rgb(0, 64, 255);
+       font-family: sans-serif;
+
+}
+
+footer p{
+    color:blue;
 }
